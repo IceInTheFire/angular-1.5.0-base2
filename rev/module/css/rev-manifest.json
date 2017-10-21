@@ -1,0 +1,6 @@
+{
+  "baseFirst/template.min.css": "baseFirst/template.min.css?v=d41d8cd98f",
+  "baseSecond/template.min.css": "baseSecond/template.min.css?v=d41d8cd98f",
+  "hello/template.min.css": "hello/template.min.css?v=850b7786c5",
+  "welcome/template.min.css": "welcome/template.min.css?v=ca2c687235"
+}

@@ -1,0 +1,104 @@
+{
+  "_args": [
+    [
+      "angular-ui-grid",
+      "/Users/weber/Documents/cz/project/dsb-admin/webapp"
+    ]
+  ],
+  "_from": "angular-ui-grid@*",
+  "_id": "angular-ui-grid@3.2.6",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/angular-ui-grid",
+  "_nodeVersion": "4.2.3",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/angular-ui-grid-3.2.6.tgz_1468529626114_0.37778041046112776"
+  },
+  "_npmUser": {
+    "email": "dana.greenberg@kronos.com",
+    "name": "dlgski"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "angular-ui-grid",
+    "raw": "angular-ui-grid",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular-ui-grid/-/angular-ui-grid-3.2.6.tgz",
+  "_shasum": "db5cbf7e56d5a325536d295741d3d5a0e4261d19",
+  "_shrinkwrap": null,
+  "_spec": "angular-ui-grid",
+  "_where": "/Users/weber/Documents/cz/project/dsb-admin/webapp",
+  "bugs": {
+    "url": "https://github.com/angular-ui/ui-grid/issues"
+  },
+  "dependencies": {
+    "angular": ">=1.2.16 1.4.x"
+  },
+  "description": "A data grid for Angular",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "db5cbf7e56d5a325536d295741d3d5a0e4261d19",
+    "tarball": "https://registry.npmjs.org/angular-ui-grid/-/angular-ui-grid-3.2.6.tgz"
+  },
+  "files": [
+    "less",
+    "npm-debug.log",
+    "ui-grid.css",
+    "ui-grid.eot",
+    "ui-grid.js",
+    "ui-grid.min.css",
+    "ui-grid.min.js",
+    "ui-grid.svg",
+    "ui-grid.ttf",
+    "ui-grid.woff"
+  ],
+  "homepage": "http://ui-grid.info",
+  "ignore": [],
+  "keywords": [
+    "angular",
+    "angularjs",
+    "data grid",
+    "grid",
+    "kogrid",
+    "ng-grid",
+    "nggrid",
+    "slickgrid",
+    "ui grid",
+    "ui-grid"
+  ],
+  "license": "MIT",
+  "main": "ui-grid.js",
+  "maintainers": [
+    {
+      "name": "c0bra",
+      "email": "emailc0bra@gmail.com"
+    },
+    {
+      "name": "jlleitschuh",
+      "email": "Jlleitschuh@wpi.edu"
+    },
+    {
+      "name": "swalters",
+      "email": "swalters@singletreetech.com"
+    }
+  ],
+  "name": "angular-ui-grid",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angular-ui/ui-grid.git"
+  },
+  "scripts": {},
+  "version": "3.2.6"
+}
