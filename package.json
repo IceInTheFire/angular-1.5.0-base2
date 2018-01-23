@@ -12,7 +12,7 @@
     "angular": "^1.5.8",
     "angular-ui-notification": "^0.2.0",
     "angular-ui-router": "^0.2.18",
-    "jquery": "^2.2.2",
+    "jquery": "2.2.2",
     "oclazyload": "^1.0.9",
     "request": "^2.81.0",
     "require": "^2.4.20"
